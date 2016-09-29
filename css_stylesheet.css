@@ -1,0 +1,49 @@
+body{
+	/*background-color: antiquewhite;*/
+	background-image: url("http://www.electrogaspoint.com/images/backs/5657397_6094735Chapwood-website-background-1.jpg");
+	margin: 20px, 100px, 100px, 20px;
+	padding-right:100px; 
+	padding-left:100px;
+}
+
+#header{
+	font-family: Verdana;
+	padding: 5px; 
+	border-bottom: black solid 1px;	
+}
+
+#me{
+	position: relative;
+	left: 650px;
+	bottom: 80px;
+	width: 50px;
+	height: 100px;
+	transform: rotate(-9deg);
+}
+
+#breifabout{
+	float: left;
+	margin: 0 0 10px 10px;
+}
+
+.leftside{
+	width: 100px;
+	height: 100px;
+	font-family: Verdana;
+	float: left;
+	width: 40%;
+	text-align: center;
+}
+
+.rightside{
+	font-family: Verdana;
+	float: left;
+	width: 50%;
+	border-left: black solid 2px;
+}
+
+.contact{
+
+	float: left;
+}
+
