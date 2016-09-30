@@ -12,6 +12,16 @@ body{
 	border-bottom: black solid 1px;	
 }
 
+#container{
+	margin: -10px;
+}
+
+#social{
+	clear: both;
+	margin: auto;
+	display: inline-flex;
+}
+
 #me{
 	position: relative;
 	left: 650px;
@@ -40,6 +50,7 @@ body{
 	float: left;
 	width: 50%;
 	border-left: black solid 2px;
+	margin: 10px;
 }
 
 .contact{
